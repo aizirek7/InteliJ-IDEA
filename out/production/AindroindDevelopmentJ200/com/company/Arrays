@@ -1,0 +1,48 @@
+package com.company;
+
+public class Arrays {
+    public static void main(String[] args) {
+        int age1 = 5;
+        //Массивы
+        //int  long  short  String
+        int [] numbers = new int[6];//Ссылочный тип данных
+        //[0, 0, 0, 0, 0, 0]
+        numbers[0] = 4;
+        numbers[1] = 5;
+        numbers[2] = 5;
+        numbers[3] = 4;
+        numbers[4] = 3;
+        numbers[5] = 4;
+        int[] grades = {4,5,5,4,3,4};
+        so
+        
+        System.out.println(numbers[0]);
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
